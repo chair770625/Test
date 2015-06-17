@@ -1,0 +1,10 @@
+D:\軟體設計\GreenwayUpCarInfo\GreenwayUpCarInfo\bin\Debug\GreenwayUpCarInfo.exe.config
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\bin\Debug\GreenwayUpCarInfo.exe.config
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\bin\Debug\GreenwayUpCarInfo.exe
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\bin\Debug\GreenwayUpCarInfo.pdb
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\obj\Debug\GreenwayUpCarInfo.csprojResolveAssemblyReference.cache
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\obj\Debug\GreenwayUpCarInfo.Form1.resources
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\obj\Debug\GreenwayUpCarInfo.Properties.Resources.resources
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\obj\Debug\GreenwayUpCarInfo.csproj.GenerateResource.Cache
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\obj\Debug\GreenwayUpCarInfo.exe
+D:\軟體設計\草悟道車位上傳\GreenwayUpCarInfo\obj\Debug\GreenwayUpCarInfo.pdb
